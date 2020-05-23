@@ -3,6 +3,11 @@
 .gradle
 /build/
 
+#VS-code
+.vscode
+.project
+.classpath
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
@@ -163,3 +168,4 @@ local.properties
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
 
+.gitignore
