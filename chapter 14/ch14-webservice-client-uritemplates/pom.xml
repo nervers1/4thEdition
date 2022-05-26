@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>io.projectreactor.ipc</groupId>
 			<artifactId>reactor-netty</artifactId>
-			<version>0.7.1.RELEASE</version>
+			<version>0.7.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>

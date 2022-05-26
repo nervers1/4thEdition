@@ -39,28 +39,28 @@
 		<dependency>
 			<groupId>io.projectreactor.ipc</groupId>
 			<artifactId>reactor-netty</artifactId>
-			<version>0.7.1.RELEASE</version>
+			<version>0.7.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
-			<version>4.0.0</version>
+			<version>4.0.1</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>io.projectreactor</groupId>
 			<artifactId>reactor-core</artifactId>
-			<version>3.1.0.RELEASE</version>
+			<version>3.4.18</version>
 		</dependency>
 		<dependency>
 			<groupId>io.projectreactor.addons</groupId>
 			<artifactId>reactor-adapter</artifactId>
-			<version>3.1.0.RELEASE</version>
+			<version>3.4.8</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-commons</artifactId>
-			<version>2.6.1</version>
+			<version>2.7.0</version>
 		</dependency>
 		<dependency>
 			<groupId>io.reactivex.rxjava2</groupId>
@@ -70,7 +70,7 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-mongodb</artifactId>
-			<version>3.3.1</version>
+			<version>3.4.0</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.mongodb</groupId>
@@ -142,12 +142,12 @@
 		<dependency>
 			<groupId>org.mongodb</groupId>
 			<artifactId>mongodb-driver</artifactId>
-			<version>3.5.0</version>
+			<version>3.12.11</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mongodb</groupId>
 			<artifactId>mongodb-driver-reactivestreams</artifactId>
-			<version>1.6.0</version>
+			<version>4.6.0</version>
 		</dependency>
 	</dependencies>
 	<build>
